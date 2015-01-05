@@ -112,13 +112,14 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:002096_0000_0FBB8139AB4C9C28"/>
-            <pb facs="tcp:002096_0001_0FBB813B1D8AE1A8" rendition="simple:additions"/>
+            <pb facs="unknown:002096_0000_0FBB8139AB4C9C28"/>
+            <pb facs="unknown:002096_0001_0FBB813B1D8AE1A8"
+                rendition="simple:additions"/>
             <p>Some Short and Eaſy Rules Teaching The true <hi>Pronunc</hi> OF THE <hi>French Language</hi>
             </p>
          </div>
          <div type="dedication">
-            <pb n="i" facs="tcp:002096_0002_0FBB813C8D1D5878"/>
+            <pb n="i" facs="unknown:002096_0002_0FBB813C8D1D5878"/>
             <head>To the Reverend <hi>John Leverett,</hi> The very worthy <hi>Preſident</hi> of <hi>Harvard</hi> College at <hi>Cambridge</hi> in <hi>New-England.</hi>
             </head>
             <opener>
@@ -127,7 +128,7 @@
             <p>
                <seg rend="decorInit">T</seg>HE following Pages contain<g ref="char:EOLhyphen"/>ing a Method, conſiſting of many conciſe and eaſy Rules, for the attaining to the true <hi>Pronunciation</hi> of the <hi>French Language</hi> (extracted from the beſt Grammars, and from my own Experience) I hum<g ref="char:EOLhyphen"/>bly ſubmit to your Cenſure. I moſt humbly ſubmit it to you Sir, Whom all the World allow to be ſo great a Maſter of <hi>Learning,</hi> ſo well vers'd in all the ſolid and curious Parts of <hi>Erudition.</hi>
             </p>
-            <pb n="ii" facs="tcp:002096_0003_0FBB813E13A3D118"/>
+            <pb n="ii" facs="unknown:002096_0003_0FBB813E13A3D118"/>
             <p>SIR, It is no ſmall Pleaſure to me, that I have this publick Opportunity of rendering you thoſe Thanks, which are deſervedly due to the Favour you granted me, in permitting me to inſtruct in the <hi>French Language</hi> ſome of thoſe Young Gentlemen who are (happily) under your Care.</p>
             <p>SIR, the <hi>Language</hi> of <hi>Verſailles</hi> is look'd upon as a diſtinguiſhing Ornamant in all the Courts of <hi>Europe.</hi>
             </p>
@@ -143,7 +144,7 @@
       </front>
       <body>
          <div type="part">
-            <pb n="1" facs="tcp:002096_0004_0FBB813F96C481A8"/>
+            <pb n="1" facs="unknown:002096_0004_0FBB813F96C481A8"/>
             <head>Of the French Letters.</head>
             <p>The French have twenty-five Letters.</p>
             <p>ABCDEFGHIIKLMNOPQRSTUVXYZ.</p>
@@ -162,7 +163,7 @@
                <p>A Conſonant in the End of a Word is loſt, if another Conſonant or Liquid begins the Word following. Example, <hi>Vous parlez bien,</hi> You ſpeak well. Read <hi>Veu parlé bien. Vous liſez bien,</hi> You read well. Read, <hi>Vou liſé bien.</hi>
                </p>
                <p>But a Conſonant in the End of a Word is not loſt, if a Vowel begins the Word following. Example, <hi>Vous avez,</hi> You have. Where the Conſonant ſ is pronounced.</p>
-               <pb n="2" facs="tcp:002096_0005_0FBB8140F7085548"/>
+               <pb n="2" facs="unknown:002096_0005_0FBB8140F7085548"/>
                <p>When a Liquid and Conſonant are in the End of a Word in the ſame Syllable, the Conſonant is loſt. Example, <hi>Grand,</hi> Great. Read <hi>Gran.</hi>
                </p>
                <p>When a Liquid and two Conſonants are in the End of a Word in the ſame Syllable, the Liquid is only pronounced. Example, <hi>Corps,</hi> a Body. Read <hi>Cor.</hi>
@@ -191,7 +192,7 @@
                </p>
             </div>
             <div type="section">
-               <pb n="3" facs="tcp:002096_0006_0FBB81456FCB32F0"/>
+               <pb n="3" facs="unknown:002096_0006_0FBB81456FCB32F0"/>
                <head>Of the Vowel <hi>e.</hi>
                </head>
                <p>The French <hi>e</hi> has three ſeveral Names. Firſt, it is called <hi>Maſculine,</hi> becauſe it has a very ſtrong and diſtinct ſound, as <hi>Parlé,</hi> ſpoken. <hi>Bonté,</hi> Goodneſs.</p>
@@ -223,7 +224,7 @@
                </head>
                <p>The <hi>e</hi> when join'd to <hi>m</hi> or <hi>n,</hi> is pronounced like <hi>a.</hi> Ex<g ref="char:EOLhyphen"/>ample, <hi>Commencer,</hi> to begin. Read <hi>Commancé. Patiem<g ref="char:EOLhyphen"/>ment,</hi> patiently. Read <hi>Patiamman.</hi>
                </p>
-               <pb n="4" facs="tcp:002096_0007_0FBB81471677FBD0"/>
+               <pb n="4" facs="unknown:002096_0007_0FBB81471677FBD0"/>
                <p>But when a Vowel does immediately follow the <hi>m,</hi> or <hi>n,</hi> the <hi>e</hi> keeps its own Sound. Example, <hi>Le premier,</hi> The firſt. <hi>Vous venez,</hi> You come.</p>
                <p>As alſo in the following Words, <hi>Jeruſalem, Hymen, Examen, Methuſalem,</hi> the <hi>e</hi> keeps its own ſound.</p>
                <p>When the <hi>é</hi> Maſculine comes before the <hi>e</hi> Open, the <hi>e</hi> keeps its own Sound alſo. Example, <hi>Bethléem, Cananéen.</hi>
@@ -260,7 +261,7 @@
                </p>
                <p>The Vowel <hi>u</hi> is loſt between <hi>g-e.</hi> and <hi>g-i.</hi> and the <hi>g</hi> is pronounced after the Engliſh pronunciation in the Word Good. Example, <hi>Guerir,</hi> to Cure. Read <hi>Geri. Guide,</hi> a Guide. Read <hi>Gide.</hi>
                </p>
-               <pb n="5" facs="tcp:002096_0008_0FBB81488371B2D8"/>
+               <pb n="5" facs="unknown:002096_0008_0FBB81488371B2D8"/>
                <p>But <hi>Guiſe,</hi> a proper Name, is excepted and pronounced as written, as are all other proper Names.</p>
                <p>The <hi>u</hi> is loſt between <hi>q-a. q-e. q-i.</hi> and <hi>q-o.</hi> and thoſe Words are pronounced as the Engliſh <hi>ka, ke, ki ko.</hi>
                </p>
@@ -298,7 +299,7 @@
                </p>
                <p>But when the following <hi>ii</hi> is marked with two points, thoſe two Vowels are not a Dipthong, but are pronounced ſeparately. Example, <hi>Reüſſir</hi> to attain. Read <hi>Re-uſſi.</hi>
                </p>
-               <pb n="6" facs="tcp:002096_0009_0FBB814A4A9E3F18"/>
+               <pb n="6" facs="unknown:002096_0009_0FBB814A4A9E3F18"/>
                <p n="9">9th. <hi>ie</hi> is pronounced as the double <hi>ee.</hi> Example, <hi>Marie,</hi> Mary. Read. <hi>Maree.</hi>
                </p>
                <p>But theſe two Vowels are only a Dipthong in the end of Words, not in the beginning or middle of Words. Ex<g ref="char:EOLhyphen"/>ample, <hi>Pieton,</hi> A Footman. Read <hi>Pi-eton.</hi>
@@ -332,7 +333,7 @@
                </p>
                <p n="3">3d. <hi>Eau</hi> is pronounced as the Dipthong <hi>au.</hi> Example, <hi>Beauté,</hi> Beauty. Read <hi>Bauté.</hi>
                </p>
-               <pb n="7" facs="tcp:002096_0010_0FBB814BCA344E00"/>
+               <pb n="7" facs="unknown:002096_0010_0FBB814BCA344E00"/>
                <p n="4">4th. <hi>Eoi</hi> is pronounced as the Dipthong <hi>oi.</hi> Example, <hi>Aſseoir,</hi> to Sit. Read <hi>Aſsoir.</hi>
                </p>
                <p n="5">5th. <hi>Eui</hi> is pronounced as the Dipthong <hi>ui.</hi> Example, <hi>Deuil,</hi> mourning. Read <hi>Duil.</hi>
@@ -371,7 +372,7 @@
                <p>When two <hi>cc</hi> meet in one Word, one of them is loſt. Example, <hi>Occurrence.</hi> Read <hi>Ocurrance.</hi>
                </p>
                <p>But theſe Words <hi>Occir,</hi> to Kill, <hi>Accident,</hi> An Accident, and all Words derived from the Latin are excepted, and both <hi>cc</hi> are pronounced.</p>
-               <pb n="8" facs="tcp:002096_0011_0FBB814D22041D58"/>
+               <pb n="8" facs="unknown:002096_0011_0FBB814D22041D58"/>
                <p>The <hi>ch</hi> is pronounced as <hi>ſh.</hi> Example, <hi>Changer,</hi> to Change. Read <hi>Shangé.</hi>
                </p>
                <p>But theſe Words <hi>Archange, Chaos, Paſchal,</hi> and all other Words not purely French are excepted, and the <hi>ch</hi> is pronounced as <hi>k.</hi> as <hi>Arkange, Kaos, Paskal.</hi>
@@ -410,7 +411,7 @@
                </head>
                <p>The <hi>h</hi> is not pronounced in any Words Which are derived from Original Tongues. Example, <hi>Homme,</hi> Man. Read <hi>Omme.</hi>
                </p>
-               <pb n="9" facs="tcp:002096_0012_0FBB8150816F2448"/>
+               <pb n="9" facs="unknown:002096_0012_0FBB8150816F2448"/>
                <p>But in all Words which are purely French it is pronounc<g ref="char:EOLhyphen"/>ed. Example, <hi>Honte,</hi> Shame.</p>
                <p>The <hi>h</hi> is not pronounced between <hi>C-r.</hi> Example, <hi>Chre<g ref="char:EOLhyphen"/>tien,</hi> a Chriſtian. Read <hi>Cretien.</hi>
                </p>
@@ -454,7 +455,7 @@
                </p>
             </div>
             <div type="section">
-               <pb n="10" facs="tcp:002096_0013_0FBB81532623A430"/>
+               <pb n="10" facs="unknown:002096_0013_0FBB81532623A430"/>
                <head>Of the Sound of <hi>S.</hi>
                </head>
                <p>The <hi>S</hi> between two Vowels, or in the end of a Word when the Word following begins with a Vowel, is pronounc<g ref="char:EOLhyphen"/>ced like <hi>z.</hi> Example, <hi>Deſire.</hi> Read, <hi>Dezire. Vous avez.</hi> Read, <hi>Vouz avez.</hi>
@@ -487,7 +488,7 @@
             </div>
          </div>
          <div type="part">
-            <pb n="11" facs="tcp:002096_0014_0FBB81547AE28A08"/>
+            <pb n="11" facs="unknown:002096_0014_0FBB81547AE28A08"/>
             <head>Of Accents.</head>
             <p>The Accents fall only on the Vowels.</p>
             <p>The French have three Accents.</p>
@@ -538,7 +539,7 @@
             </div>
          </div>
          <div type="part">
-            <pb n="12" facs="tcp:002096_0015_0FBB8155F8E3E378"/>
+            <pb n="12" facs="unknown:002096_0015_0FBB8155F8E3E378"/>
             <head>To know when Syllables are Long or Short.</head>
             <p>The Syllables ending with <hi>c</hi> Feminine are ſhort, As <hi>Me, Te, Quelle.</hi>
             </p>
